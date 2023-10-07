@@ -1,7 +1,7 @@
 name: dart_joda
-description: A new Flutter plugin project.
+description: dart_joda was started to provide Dart with the comfortable time processing experience experienced in joda-time (=java.time).
 version: 0.0.1
-homepage:
+homepage: https://github.com/Yeh35/dart_joda
 
 environment:
   sdk: '>=3.1.2 <4.0.0'
